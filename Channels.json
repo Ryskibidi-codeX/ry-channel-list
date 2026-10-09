@@ -1,10 +1,10 @@
-{ 
- "author": "Ry skibidi",
- "version": "1.0.0",
- "channels": [
-   {
-     "name": "Channel Ry",
-     "jid": "120363413565470888@newsletter",
+{
+  "author": "Ry skibidi",
+  "versi": "1.0.0",
+  "channels": [
     {
-  ]    
+      "nama": "Saluran Ry",
+      "jid": "120363413565470888@newsletter"
+    }
+  ]
 }
