@@ -1,10 +1,4 @@
-{
-  "author": "Ry skibidi",
-  "versi": "1.0.0",
-  "channels": [
-    {
-      "nama": "Saluran Ry",
-      "jid": "120363413565470888@newsletter"
-    }
-  ]
-}
+[
+  "120363413565470888@newsletter",
+  "ISI_JID_KEDUA_DI_SINI"
+]
